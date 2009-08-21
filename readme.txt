@@ -10,11 +10,11 @@ Link to recent entries from RSS/Atom feeds.
 
 == Description ==
 
-I don’t really like Blogrolls, I think they’re often not much more than glorified link dumps. I don’t like how they give you nothing more than the Blog title, and unless that title really grabs your attention, you’re never gonna click it. I don’t like how they are often just a static list, commonly out of date, that you learn to ignore after the first 4 page views. In their current format, they just appear to be a great waste of space.
+I don't really like Blogrolls, I think they're often not much more than glorified link dumps. I don't like how they give you nothing more than the Blog title, and unless that title really grabs your attention, you're never gonna click it. I don't like how they are often just a static list, commonly out of date, that you learn to ignore after the first 4 page views. In their current format, they just appear to be a great waste of space.
 
-This is why I decided to create the RSS Blogroll plugin. RSS Blogroll allows you to link to your favourite blogs via the latest items from their RSS/Atom feed. Article titles are much more attention grabbing and will deliver much higher quality traffic. We all hate clicking through to abandoned blogs – displaying article publication dates also lets readers know these are up to date and active sites.
+This is why I decided to create the RSS Blogroll plugin. RSS Blogroll allows you to link to your favourite blogs via the latest items from their RSS/Atom feed. Article titles are much more attention grabbing and will deliver much higher quality traffic. We all hate clicking through to abandoned blogs - displaying article publication dates also lets readers know these are up to date and active sites.
 
-Many of us want to direct some of our traffic to related sites. RSS Blogroll will create deeplinks to the target sites, which are much more useful for SEO than homepage links. Overall it’s a win-win situation with a better browsing experience for users and the linked sites getting more visitors who are actually interested in their content.
+Many of us want to direct some of our traffic to related sites. RSS Blogroll will create deeplinks to the target sites, which are much more useful for SEO than homepage links. Overall it's a win-win situation with a better browsing experience for users and the linked sites getting more visitors who are actually interested in their content.
 
 == Screenshots ==
 
