@@ -4,11 +4,11 @@
 Plugin name: RSS Blogroll
 Plugin URI: http://www.pantsonhead.com/wordpress/rss-blogroll/
 Description: Link to latest articles from your favorite RSS feeds.
-Version: 0.1
+Version: 0.2
 Author: Greg Jackson
 Author URI: http://www.pantsonhead.com
 
-Copyright 2009  Greg Jackson  (email : greg@pantsonhead.com)
+Copyright 2011  Greg Jackson  (email : greg@pantsonhead.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -207,8 +207,6 @@ class RSSBlogroll extends WP_Widget {
 		$show_feedname = intval($instance['show_feedname']);
 		$show_author = intval($instance['show_author']);
 		$date_format = empty($instance['date_format']) ? get_option('date_format') : $instance['date_format'];
-
-		${'style_'.$style} = 'SELECTED';
   
 		echo '
 			<p>
@@ -227,8 +225,8 @@ class RSSBlogroll extends WP_Widget {
 			<p>
 				<label for="'.$this->get_field_name('style').'">Display Style: </label>
 				<select id="'.$this->get_field_id('style').'" name="'.$this->get_field_name('style').'">
-					<option value="time" '.$style_time.'>Chronological</option>
-					<option value="feed" '.$style_feed.'>Group by Feed</option>
+					<option value="time" '.selected( $style, 'time', false ).'>Chronological</option>
+					<option value="feed" '.selected( $style, 'feed', false ).'>Group by Feed</option>
 				</select>
 			</p>
 			<table width="400"><tr>
