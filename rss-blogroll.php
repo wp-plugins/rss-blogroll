@@ -2,13 +2,13 @@
 /*
 
 Plugin name: RSS Blogroll
-Plugin URI: http://www.pantsonhead.com/wordpress/rss-blogroll/
-Description: Link to latest articles from your favorite RSS feeds.
-Version: 0.2
+Plugin URI: http://wordpress.org/extend/plugins/rss-blogroll/
+Description: Sidebar widget that links to latest articles from your favorite RSS feeds.
+Version: 0.3
 Author: Greg Jackson
-Author URI: http://www.pantsonhead.com
+Author URI: http://www.pantsonhead.com/
 
-Copyright 2011  Greg Jackson  (email : greg@pantsonhead.com)
+Copyright 2012  Greg Jackson  (email : greg@pantsonhead.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

@@ -3,10 +3,10 @@ Contributors: pantsonhead
 Donate link: http://www.amazon.co.uk/gp/registry/1IX1RH4LFSY4W
 Tags: widget, plugin, sidebar, rss, blogroll
 Requires at least: 2.8
-Tested up to: 3.1.2
+Tested up to: 3.2.1
 Stable tag: trunk
 
-Link to recent entries from RSS/Atom feeds.
+Sidebar widget that links to recent entries from RSS/Atom feeds.
 
 == Description ==
 
@@ -26,9 +26,13 @@ Many of us want to direct some of our traffic to related sites. RSS Blogroll wil
 
 1. Upload `rss-blogroll.php` to the `/wp-content/plugins/` directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. The Random Text widget can now be configured and used from the Appearance -> Widgets menu
+3. The RSS Blogroll widget can now be configured and used from the Appearance -> Widgets menu
 
 == Changelog ==
+
+= v0.3 2012-09-18 =
+
+* Fixed documentation errors.
 
 = v0.2 2011-06-15 =
 
