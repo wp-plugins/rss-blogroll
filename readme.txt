@@ -3,7 +3,7 @@ Contributors: pantsonhead
 Donate link: http://www.amazon.co.uk/gp/registry/1IX1RH4LFSY4W
 Tags: widget, plugin, sidebar, rss, blogroll
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 4.2.3
 Stable tag: trunk
 
 Sidebar widget that links to recent entries from RSS/Atom feeds.
@@ -29,6 +29,11 @@ Many of us want to direct some of our traffic to related sites. RSS Blogroll wil
 3. The RSS Blogroll widget can now be configured and used from the Appearance -> Widgets menu
 
 == Changelog ==
+
+= v0.4 2015-08-02 =
+
+* Fixed Undefined variable PHP Notice
+* Tested up to: 4.2.3 
 
 = v0.3 2012-09-18 =
 
